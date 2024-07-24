@@ -260,6 +260,15 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! 外の広場が騒がしくなってきた。ブラジルでは、これを道路、歩道でやってました。コンクリートの上でやるので体をはった芸です !!!</marquee></span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmxT5Z_iG1g?si=cEBPAZq1Pqj9W3CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IiPlV0cCXeo?si=OV1cyHU2KFKqFiNm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wz1D-ZMc1jM?si=le1D7yonsSsW7-EU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h3><span class="yellow"><br>～～～デザートにティラミスとチーズケーキ。英語が通じてないので、コーヒーの種類を説明するのに何回も確認～～～<br><br></span></h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Ia31YNwAlI?si=2oB-f-_gu8PbWjL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -267,10 +276,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-
-
-
-<h3><span class="yellow"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～店内はおしゃれ。アルコールを飲んでいる少ない。お食事をする場所でした～～～<br><br></span></h3>
 
 
 
