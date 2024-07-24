@@ -296,6 +296,22 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
+<h3><span class="yellow"><br>～～～噴水に馬があるのは珍しいかな～～～<br><br></span></h3>
+
+
+
+
+<h3><span class="yellow"><br>～～～バスから見えた観覧車～～～<br><br></span></h3>
+
+
+
+
+
+<h3><span class="yellow"><br>～～～川には大きな客船、遊覧船、ジェットスキー～～～<br><br></span></h3>
+
+
+
+
 <h3><span class="yellow"><br>～～～家族全員で夕食～～～<br><br></span></h3>
 
 
