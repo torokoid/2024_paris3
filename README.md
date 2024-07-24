@@ -274,7 +274,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240724_095.JPG" data-lightbox="abc"><img src="20240724_095.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240724_096.JPG" data-lightbox="abc"><img src="20240724_096.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～店内はおしゃれ。アルコールを飲んでいる少ない。お食事をする場所でした～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～店内はおしゃれ。アルコールを飲んでいる人少ない。お食事をする場所でした～～～<br><br></span></h3>
 
 <a href="20240724_097.JPG" data-lightbox="abc"><img src="20240724_097.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240724_098.JPG" data-lightbox="abc"><img src="20240724_098.JPG" alt="サンプル画像" width="900" /></a>
