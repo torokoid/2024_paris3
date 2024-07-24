@@ -213,13 +213,33 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～尖塔は工事中で入れず～～～<br><br></span></h3>
 
+<a href="20240724_066.JPG" data-lightbox="abc"><img src="20240724_066.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_067.JPG" data-lightbox="abc"><img src="20240724_067.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_068.JPG" data-lightbox="abc"><img src="20240724_068.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_069.JPG" data-lightbox="abc"><img src="20240724_069.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow"><marquee behavior="left">!!!次女のオススメレストランを目指して歩きました!!!</marquee></span></h2>
 
-<h2><span class="yellow"><marquee behavior="left">!!!21日の夜、次女がパリに到着,家族全員揃った,どこに行きたい？凱旋門とエッフェル塔,我々は2回目,その後、シテ島まわりを夜散歩!!!</marquee></span></h2>
+<a href="20240724_070.JPG" data-lightbox="abc"><img src="20240724_070.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_071.JPG" data-lightbox="abc"><img src="20240724_071.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_072.JPG" data-lightbox="abc"><img src="20240724_072.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_073.JPG" data-lightbox="abc"><img src="20240724_073.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_074.JPG" data-lightbox="abc"><img src="20240724_074.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_075.JPG" data-lightbox="abc"><img src="20240724_075.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_076.JPG" data-lightbox="abc"><img src="20240724_076.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_077.JPG" data-lightbox="abc"><img src="20240724_077.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_078.JPG" data-lightbox="abc"><img src="20240724_078.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_079.JPG" data-lightbox="abc"><img src="20240724_079.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_080.JPG" data-lightbox="abc"><img src="20240724_080.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_081.JPG" data-lightbox="abc"><img src="20240724_081.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_082.JPG" data-lightbox="abc"><img src="20240724_082.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_083.JPG" data-lightbox="abc"><img src="20240724_083.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_084.JPG" data-lightbox="abc"><img src="20240724_084.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_085.JPG" data-lightbox="abc"><img src="20240724_085.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_086.JPG" data-lightbox="abc"><img src="20240724_086.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_087.JPG" data-lightbox="abc"><img src="20240724_087.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
-<h3><span class="yellow"><br>～～～ホテルはセーヌ川の近く～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～予約なしでしたが、二階の席に入れてくれました～～～<br><br></span></h3>
 
 
 
