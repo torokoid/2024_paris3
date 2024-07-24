@@ -332,9 +332,13 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～川には大きな客船、遊覧船、ジェットスキー～～～<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLceIYXza7M?si=iCHruLE70JKOlcfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cMl1hoeFV4Y?si=BZdgIt6ji1bEHZDD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3MIBToFPBYU?si=0nwdzQAXXtDyisy5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uMKW1qTuJCw?si=fgnmHmFLq0MEoYvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <a href="20240724_136.JPG" data-lightbox="abc"><img src="20240724_136.JPG" alt="サンプル画像" width="900" /></a>
 
