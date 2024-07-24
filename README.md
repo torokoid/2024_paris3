@@ -336,7 +336,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-
+<a href="20240724_136.JPG" data-lightbox="abc"><img src="20240724_136.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～だんだん暗くなってきたが、日中のように水蒸気がまかれた～～～<br><br></span></h3>
 
