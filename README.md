@@ -92,7 +92,7 @@ background-color: rgba(0, 225, 0, 0.6);
 </p>
 
 <!--<div style="background-color:rgb(255,255,255,0.5);">-->
-<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris/">22日〜23日</a>>24日〜</p><!--</div>-->
+<p class="topicpath"><a href="https://torokoid.github.io/2024_paris/">2024年7月19日〜21日</a>><a href="https://torokoid.github.io/2024_paris/">22日〜23日</a>>23日〜</p><!--</div>-->
 
 <p align="left"> <span class="yellow">&nbsp;Bruce 23日〜</span></p>
 <!--<p><h2><a href="https://torokoid.github.io/list">クラス会名簿リンク</a></h2></p>-->
@@ -175,11 +175,43 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!!サンミッシェル大聖堂の中に入った!!!</marquee></span></h2>
 
+<a href="20240724_031.JPG" data-lightbox="abc"><img src="20240724_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_032.JPG" data-lightbox="abc"><img src="20240724_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_033.JPG" data-lightbox="abc"><img src="20240724_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_034.JPG" data-lightbox="abc"><img src="20240724_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_035.JPG" data-lightbox="abc"><img src="20240724_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_036.JPG" data-lightbox="abc"><img src="20240724_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_037.JPG" data-lightbox="abc"><img src="20240724_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_038.JPG" data-lightbox="abc"><img src="20240724_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_039.JPG" data-lightbox="abc"><img src="20240724_039.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_040.JPG" data-lightbox="abc"><img src="20240724_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_041.JPG" data-lightbox="abc"><img src="20240724_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_042.JPG" data-lightbox="abc"><img src="20240724_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_043.JPG" data-lightbox="abc"><img src="20240724_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_044.JPG" data-lightbox="abc"><img src="20240724_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_045.JPG" data-lightbox="abc"><img src="20240724_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_046.JPG" data-lightbox="abc"><img src="20240724_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_047.JPG" data-lightbox="abc"><img src="20240724_047.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_048.JPG" data-lightbox="abc"><img src="20240724_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_049.JPG" data-lightbox="abc"><img src="20240724_049.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_050.JPG" data-lightbox="abc"><img src="20240724_050.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_051.JPG" data-lightbox="abc"><img src="20240724_051.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_052.JPG" data-lightbox="abc"><img src="20240724_052.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_053.JPG" data-lightbox="abc"><img src="20240724_053.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_054.JPG" data-lightbox="abc"><img src="20240724_054.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_055.JPG" data-lightbox="abc"><img src="20240724_055.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_056.JPG" data-lightbox="abc"><img src="20240724_056.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_057.JPG" data-lightbox="abc"><img src="20240724_057.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_058.JPG" data-lightbox="abc"><img src="20240724_058.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_059.JPG" data-lightbox="abc"><img src="20240724_059.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_060.JPG" data-lightbox="abc"><img src="20240724_060.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_061.JPG" data-lightbox="abc"><img src="20240724_061.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_062.JPG" data-lightbox="abc"><img src="20240724_062.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_063.JPG" data-lightbox="abc"><img src="20240724_063.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_064.JPG" data-lightbox="abc"><img src="20240724_064.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_065.JPG" data-lightbox="abc"><img src="20240724_065.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
-
-<h3><span class="yellow"><br>～～～お向かいのユニクロ～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～尖塔は工事中で入れず～～～<br><br></span></h3>
 
 
 
