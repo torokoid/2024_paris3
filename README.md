@@ -344,9 +344,23 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～だんだん暗くなってきたが、日中のように水蒸気がまかれた～～～<br><br></span></h3>
 
+<a href="20240724_137.JPG" data-lightbox="abc"><img src="20240724_137.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_138.JPG" data-lightbox="abc"><img src="20240724_138.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_139.JPG" data-lightbox="abc"><img src="20240724_139.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CZsKNKy6AnQ?si=8-CvQ5Jdjpnhk6uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240724_140.JPG" data-lightbox="abc"><img src="20240724_140.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_141.JPG" data-lightbox="abc"><img src="20240724_141.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_142.JPG" data-lightbox="abc"><img src="20240724_142.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_143.JPG" data-lightbox="abc"><img src="20240724_143.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_144.JPG" data-lightbox="abc"><img src="20240724_144.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_145.JPG" data-lightbox="abc"><img src="20240724_145.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～日本の雰囲気を出した店～～～<br><br></span></h3>
 
 
-<h3><span class="yellow"><br>～～～22日美術館に行く途中、ポンピードセンターの前を通った,セーヌ川でオープニングセレモニーの練習？～～～<br><br></span></h3>
+
 
 
 
