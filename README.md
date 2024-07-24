@@ -106,12 +106,31 @@ background-color: rgba(0, 225, 0, 0.6);
 <div id="wrap">
 -->
 
-<h3><span class="yellow"><br>～～～2024年7月22日、館内の展示品画像、これ撮影できるとは！～～～<br><br></span></h3>
-<a href="20240723_001.JPG" data-lightbox="abc"><img src="20240723_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240723_002.JPG" data-lightbox="abc"><img src="20240723_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20240723_003.JPG" data-lightbox="abc"><img src="20240723_003.JPG" alt="サンプル画像" width="900" /></a>
+<h3><span class="yellow"><br>～～～2024年7月24日着の画像です！～～～<br><br></span></h3>
+<a href="20240724_001.JPG" data-lightbox="abc"><img src="20240724_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_002.JPG" data-lightbox="abc"><img src="20240724_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_003.JPG" data-lightbox="abc"><img src="20240724_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_004.JPG" data-lightbox="abc"><img src="20240724_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_005.JPG" data-lightbox="abc"><img src="20240724_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～ここからは動画です～～～<br><br></span></h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzAizdxZNKs?si=5t3_E0mb4F7eewQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UbyYCf7mihU?si=cPo3nMTIWvjpTgE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-j3PsrcaZ-s?si=oSGsLxo_GheMbxNO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240724_006.JPG" data-lightbox="abc"><img src="20240724_006.JPG" alt="サンプル画像" width="900" /></a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n28b_iJEzAQ?si=hyuibYCLnwRB3jvL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ep1CMOwV2Mw?si=awbzwmtzeR8RWSl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240724_007.JPG" data-lightbox="abc"><img src="20240724_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_008.JPG" data-lightbox="abc"><img src="20240724_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_009.JPG" data-lightbox="abc"><img src="20240724_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_010.JPG" data-lightbox="abc"><img src="20240724_010.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～最初の停車駅の後、警察官が見回り開始。その後、車掌がQRコード確認、日本では、もうやってない～～～<br><br></span></h3>
 
 
 
