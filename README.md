@@ -151,10 +151,16 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! バスで市内へ。Booking.comで予約したアパートに到着 !!!</marquee></span></h2>
 
+<a href="20240724_014.JPG" data-lightbox="abc"><img src="20240724_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_015.JPG" data-lightbox="abc"><img src="20240724_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_016.JPG" data-lightbox="abc"><img src="20240724_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_017.JPG" data-lightbox="abc"><img src="20240724_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_018.JPG" data-lightbox="abc"><img src="20240724_018.JPG" alt="サンプル画像" width="900" /></a>
 
 
+<h3><span class="yellow"><br>～～～予め連絡された暗証番号でドアを開けるだけです。市内観光へ。～～～<br><br></span></h3>
 
-<h3><span class="yellow"><br>～～～寺院の裏手には似顔絵画家～～～<br><br></span></h3>
+
 
 
 
