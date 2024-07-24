@@ -241,6 +241,33 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～予約なしでしたが、二階の席に入れてくれました～～～<br><br></span></h3>
 
+<a href="20240724_088.JPG" data-lightbox="abc"><img src="20240724_088.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_089.JPG" data-lightbox="abc"><img src="20240724_089.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_090.JPG" data-lightbox="abc"><img src="20240724_090.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～ベルギービールのヒューガルデンを頼んだら、瓶がでてきてがっかり～～～<br><br></span></h3>
+
+<a href="20240724_091.JPG" data-lightbox="abc"><img src="20240724_091.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～フォワグラクリーム。普段食べない料理。茶碗蒸しとカツ丼の玉子とじの部分の味<br>
+次女が注文したサーモンは普通に美味しかった～～～<br><br></span></h3>
+
+<a href="20240724_092.JPG" data-lightbox="abc"><img src="20240724_092.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～ボルドーの赤ワインを注文～～～<br><br></span></h3>
+
+<a href="20240724_093.JPG" data-lightbox="abc"><img src="20240724_093.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow"><marquee behavior="left">!!! 外の広場が騒がしくなってきた。ブラジルでは、これを道路、歩道でやってました。コンクリートの上でやるので体をはった芸です !!!</marquee></span></h2>
+
+
+
+
+
+
+
+
+
 
 
 <h3><span class="yellow"><br>～～～前の日にはなかったフランス国旗が凱旋門につるされてました～～～<br><br></span></h3>
