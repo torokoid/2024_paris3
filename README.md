@@ -270,13 +270,26 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4Ia31YNwAlI?si=2oB-f-_gu8PbWjL-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
-
-
-
+<a href="20240724_094.JPG" data-lightbox="abc"><img src="20240724_094.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_095.JPG" data-lightbox="abc"><img src="20240724_095.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_096.JPG" data-lightbox="abc"><img src="20240724_096.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～店内はおしゃれ。アルコールを飲んでいる少ない。お食事をする場所でした～～～<br><br></span></h3>
+
+<a href="20240724_097.JPG" data-lightbox="abc"><img src="20240724_097.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_098.JPG" data-lightbox="abc"><img src="20240724_098.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_099.JPG" data-lightbox="abc"><img src="20240724_099.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_100.JPG" data-lightbox="abc"><img src="20240724_100.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_101.JPG" data-lightbox="abc"><img src="20240724_101.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_102.JPG" data-lightbox="abc"><img src="20240724_102.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_103.JPG" data-lightbox="abc"><img src="20240724_103.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_104.JPG" data-lightbox="abc"><img src="20240724_104.JPG" alt="サンプル画像" width="900" /></a>
+
+
+
+<a href="20240724_105.JPG" data-lightbox="abc"><img src="20240724_105.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～21時になっても明るいので、川沿いへ～～～<br><br></span></h3>
 
 
 
