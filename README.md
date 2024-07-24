@@ -160,11 +160,20 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～予め連絡された暗証番号でドアを開けるだけです。市内観光へ。～～～<br><br></span></h3>
 
+<a href="20240724_019.JPG" data-lightbox="abc"><img src="20240724_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_020.JPG" data-lightbox="abc"><img src="20240724_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_021.JPG" data-lightbox="abc"><img src="20240724_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_022.JPG" data-lightbox="abc"><img src="20240724_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_023.JPG" data-lightbox="abc"><img src="20240724_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_024.JPG" data-lightbox="abc"><img src="20240724_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_025.JPG" data-lightbox="abc"><img src="20240724_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_026.JPG" data-lightbox="abc"><img src="20240724_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_027.JPG" data-lightbox="abc"><img src="20240724_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_028.JPG" data-lightbox="abc"><img src="20240724_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_029.JPG" data-lightbox="abc"><img src="20240724_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_030.JPG" data-lightbox="abc"><img src="20240724_030.JPG" alt="サンプル画像" width="900" /></a>
 
-
-
-
-<h2><span class="yellow"><marquee behavior="left">!!!その後、ラファイエットデパートのステンドグラス!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!サンミッシェル大聖堂の中に入った!!!</marquee></span></h2>
 
 
 
