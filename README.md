@@ -144,10 +144,14 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! 定刻15:08ボルドー到着！ヨーロッパで電車が時間通りに運行されたのは驚いた !!!</marquee></span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqRsF32JXcM?si=P4RVHesrNa4fIGYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240724_012.JPG" data-lightbox="abc"><img src="20240724_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_013.JPG" data-lightbox="abc"><img src="20240724_013.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow"><marquee behavior="left">!!! バスで市内へ。Booking.comで予約したアパートに到着 !!!</marquee></span></h2>
 
 
-
-<h2><span class="yellow"><marquee behavior="left">!!! 22日午後は、サクレクレール寺院 !!!</marquee></span></h2>
 
 
 <h3><span class="yellow"><br>～～～寺院の裏手には似顔絵画家～～～<br><br></span></h3>
