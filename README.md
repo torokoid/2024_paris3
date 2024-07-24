@@ -317,21 +317,28 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～噴水に馬があるのは珍しいかな～～～<br><br></span></h3>
 
-
-
+<a href="20240724_127.JPG" data-lightbox="abc"><img src="20240724_127.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_128.JPG" data-lightbox="abc"><img src="20240724_128.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_129.JPG" data-lightbox="abc"><img src="20240724_129.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_130.JPG" data-lightbox="abc"><img src="20240724_130.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_131.JPG" data-lightbox="abc"><img src="20240724_131.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_132.JPG" data-lightbox="abc"><img src="20240724_132.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_133.JPG" data-lightbox="abc"><img src="20240724_133.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～バスから見えた観覧車～～～<br><br></span></h3>
 
-
-
-
+<a href="20240724_134.JPG" data-lightbox="abc"><img src="20240724_134.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_135.JPG" data-lightbox="abc"><img src="20240724_135.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～川には大きな客船、遊覧船、ジェットスキー～～～<br><br></span></h3>
 
 
 
 
-<h3><span class="yellow"><br>～～～家族全員で夕食～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～だんだん暗くなってきたが、日中のように水蒸気がまかれた～～～<br><br></span></h3>
 
 
 
