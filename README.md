@@ -359,29 +359,23 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～日本の雰囲気を出した店～～～<br><br></span></h3>
 
+<a href="20240724_146.JPG" data-lightbox="abc"><img src="20240724_146.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_147.JPG" data-lightbox="abc"><img src="20240724_147.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240724_148.JPG" data-lightbox="abc"><img src="20240724_148.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
 
-
-<h2><span class="yellow"><marquee behavior="left">!!!23日,パリに家族全員集合です!!!</marquee></span></h2>
-
-<h3><span class="yellow"><br>～～～次女と２ショット！～～～<br><br></span></h3>
-
-
-<h3><span class="yellow"><br>～～～長女、次女、私、カミさん～～～<br><br></span></h3>
+<h2><span class="yellow"><marquee behavior="left">!!!この後、すぐ寝てしまいたした。3時頃起床。翌日に日本男子サッカーがあるのに日本人に会わず!!!</marquee></span></h2>
 
 
 
-
-<br><br>
-
-<h3><span class="yellow"><br>長女とカミさんは7/18到着、7/22帰国<br>
-次女は7/21到着<br>
-サッカーを二試合スタジアム観戦、<br>
-7/26オープニングセレモニー<br>
-7/27帰国<br>
-私は日本サッカーが決勝進出したら、8/13帰国です<br><br></span></h3>
+<h3><span class="yellow"><br>スター選手ゼロ、オーバーエイジなし。<br>
+YOUTUBEの予想は2-1勝利。<br>
+南米パラグアイは試合巧者。パラグアイは先制されないように気をつける。<br>
+0-0でもいいという試合。日本はカウンターくらってヒヤヒヤ。<br>
+暑いので、集中力のかけた見せ場のない試合を予想。<br>
+0-0でいいと思っています<br><br></span></h3>
 
 
 
