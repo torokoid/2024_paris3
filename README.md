@@ -132,10 +132,18 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～最初の停車駅の後、警察官が見回り開始。その後、車掌がQRコード確認、日本では、もうやってない～～～<br><br></span></h3>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PWjZK5m5YN0?si=V02z1jQjdZ8O7xyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/boVj4_gqc5I?si=HOInEc9EpJnbDfti" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4kF-mVKo-s?si=YfJqqhH2KHBkYsV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<h2><span class="yellow"><marquee behavior="left">!!! ここから日本特集、最後に戦場のメリークリスマス !!!</marquee></span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HlUgoKsElIQ?si=_RVbyILe1WO1ip4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<a href="20240724_011.JPG" data-lightbox="abc"><img src="20240724_011.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow"><marquee behavior="left">!!! 定刻15:08ボルドー到着！ヨーロッパで電車が時間通りに運行されたのは驚いた !!!</marquee></span></h2>
+
 
 
 
