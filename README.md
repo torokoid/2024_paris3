@@ -285,11 +285,14 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240724_103.JPG" data-lightbox="abc"><img src="20240724_103.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240724_104.JPG" data-lightbox="abc"><img src="20240724_104.JPG" alt="サンプル画像" width="900" /></a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K0ip_KRpTO4?si=NMZ1WgXDyCy_xbSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rr8puibQgkg?si=USx-V4pvpNPWUrge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <a href="20240724_105.JPG" data-lightbox="abc"><img src="20240724_105.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～21時になっても明るいので、川沿いへ～～～<br><br></span></h3>
+
 
 
 
