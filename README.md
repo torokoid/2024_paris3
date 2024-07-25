@@ -366,7 +366,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h2><span class="yellow"><marquee behavior="left">!!!この後、すぐ寝てしまいたした。3時頃起床。翌日に日本男子サッカーがあるのに日本人に会わず!!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!!この後、すぐ寝てしまいました。3時頃起床。翌日に日本男子サッカーがあるのに日本人に会わず!!!</marquee></span></h2>
 
 
 
